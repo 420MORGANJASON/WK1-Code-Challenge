@@ -22,4 +22,4 @@ if (score > 79 && score <= 100) {
   return grade = "E"
 }
 }
-console.log(teststudentGradeSystem(55));
+console.log(teststudentGradeSystem(79));
