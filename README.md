@@ -11,7 +11,7 @@ Fork the repo<br>
 Create a new branch (git checkout -b improve-feature)<br>
 Make the appropriate changes in the files<br>
 Add changes to reflect the changes made<br>
-Commit your changes (git commit -am 'Improve feature')<br>
+Commit your changes (git commit -m 'Improve feature')<br>
 Push to the branch (git push origin improve-feature)<br>
 Create a Pull Request<br></p>
 
